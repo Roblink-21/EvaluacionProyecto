@@ -76,7 +76,13 @@ class PortafolioController extends Controller
 
     public function update(Portafolio $portafolio)
     {
-
+        // request()->validate([
+        //     'nombre'=>'required|max:50',
+        //     'descripcion'=>'required|string|max:50',
+        //     'categoria'=>'required | string | max:15',
+        //     'imagen'=>'required | max:2000 | mimes:jpge,png,jpg',
+        //     'video'=>'required  | max:100',
+        // ]);
 
         if(request()->hasFile('imagen'))
         {

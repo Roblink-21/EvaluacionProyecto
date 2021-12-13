@@ -205,7 +205,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; #Grupo3</small></div>
+            <div class="container"><small>Copyright &copy; #Grupo->3</small></div>
         </div>
 
         <!-- Bootstrap core JS-->

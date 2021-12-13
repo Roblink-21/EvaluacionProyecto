@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>ByronTosh</title>
+        <title>Grupo 3💻🗿</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -20,7 +20,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top">ByronTosh</a>
+                <a class="navbar-brand" href="#page-top">#GRUPO3</a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -55,6 +55,7 @@
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
+                <b class="page-section-heading text-center text-uppercase text-secondary mb-0">Prueba I BIMESTRE</b>
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portafolio</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
@@ -204,7 +205,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; Byron Loarte</small></div>
+            <div class="container"><small>Copyright &copy; #Grupo3</small></div>
         </div>
 
         <!-- Bootstrap core JS-->
